@@ -48,10 +48,12 @@ clear()
 
 Import_Lib()
 
-SERVER_HOST = "0.0.0.0"       
-SERVER_PORT = 8080            
-CLIENT_PORT = 8082            
-TARGET_IP = "192.168.1.102" 
+# Server configuration
+SERVER_HOST = "0.0.0.0"       # Server IP address (do not change for local server)
+SERVER_PORT = 8080            # Server port
+CLIENT_PORT = 8082            # Port to send messages to the other device
+TARGET_IP = "192.168.1.102"   # Target IP address (change this to the IP of the other device)
+
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind((SERVER_HOST, SERVER_PORT))
