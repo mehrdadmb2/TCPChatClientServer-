@@ -28,7 +28,7 @@ This project is for the Internet of Things (IOT) lesson.<br>A simple Python prog
 Behroozi_Mohammad Reza
 400435505
 𖤐
-# Banner 🎋 
+<!--# Banner 🎋 
         _   _                _               _       _           _             _                  _                 _         
        /\_\/\_\ _           /\ \            / /\    / /\        /\ \          /\ \               / /\              /\ \       
       / / / / //\_\        /  \ \          / / /   / / /       /  \ \        /  \ \____         / /  \            /  \ \____  
@@ -41,3 +41,4 @@ Behroozi_Mohammad Reza
 \/_/    / / /       / / /_______\   / / /   / / /       / / /  \ \ \     \ \___\/ /      / / /_       __\ \_\ \ \___\/ /      
         \/_/        \/__________/   \/_/    \/_/        \/_/    \_\/      \/_____/       \_\___\     /____/_/  \/_____/       
                                                                                                                               
+-->
