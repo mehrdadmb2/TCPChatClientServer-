@@ -121,5 +121,3 @@ Project Link: [https://github.com/mehrdadmb2/TCPChatClientServer](https://github
 ## 🤝 Acknowledgements
 Special thanks to the open-source contributors for Colorama and other essential Python libraries.
 ```
-
-این فایل به‌صورت کامل و با کامنت‌های مناسب آماده استفاده است و تمامی بخش‌های موردنیاز README شما را در بر دارد.
