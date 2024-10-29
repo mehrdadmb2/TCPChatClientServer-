@@ -1,44 +1,125 @@
-# 💫 About Project:
-This project is for the Internet of Things (IOT) lesson.<br>A simple Python program to send and receive text messages on 2 systems in a local area network (lan).
+<!-- بخش مرکزی توضیحات و مشخصات پروژه -->
+<div align="center">
+  
+  <!-- عنوان پروژه -->
+  <h1> Simple Network Chat Program </h1>
+  <p> A Basic Tool for Sending and Receiving Text Messages Between Devices Over a Network </p>
 
+  <!-- بخش باج‌ها (Badges) -->
+  <a href="https://github.com/mehrdadmb2/TCPChatClientServer" title="Go to GitHub repo">
+    <img src="https://img.shields.io/static/v1?label=Mehrdad&message=Network-Chat&color=blue&logo=github" alt="Mehrdad - Network Chat">
+  </a>
+  <a href="https://github.com/mehrdadmb2/TCPChatClientServer">
+    <img src="https://img.shields.io/github/stars/mehrdadmb2/TCPChatClientServer?style=social" alt="stars - Network Chat">
+  </a>
+  <a href="https://github.com/mehrdadmb2/TCPChatClientServer">
+    <img src="https://img.shields.io/github/forks/mehrdadmb2/TCPChatClientServer?style=social" alt="forks - Network Chat">
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._.m._.b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__Mehrdad_?t=iuP1bZxqFPrCndkigOoGmQ&s=09) 
+  <!-- لینک‌های سریع -->
+  <h4>
+    <a href="https://github.com/mehrdadmb2/TCPChatClientServer/wiki">Documentation</a>
+    <span> · </span>
+    <a href="https://github.com/mehrdadmb2/TCPChatClientServer/issues">Report Bug</a>
+    <span> · </span>
+    <a href="https://github.com/mehrdadmb2/TCPChatClientServer/issues">Request Feature</a>
+  </h4>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehrdadmb2&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehrdadmb2&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadmb2&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehrdadmb2&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+<!-- معرفی پروژه -->
+## :star2: About the Project
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mehrdadmb2&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+This project is a simple network chat program that allows users to send and receive messages over a local network. It includes automated library installation for required dependencies and offers an interactive console-based chat interface.
 
----
-[![](https://visitcount.itsvg.in/api?id=mehrdadmb2&icon=0&color=0)](https://visitcount.itsvg.in)
+<div>&nbsp;</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- بخش راه‌اندازی پروژه -->
+## 🛠️ Installation and Setup
 
-# zand University 🎓
-卐
-Behroozi_Mohammad Reza
-400435505
-𖤐
-<!--# Banner 🎋 
-        _   _                _               _       _           _             _                  _                 _         
-       /\_\/\_\ _           /\ \            / /\    / /\        /\ \          /\ \               / /\              /\ \       
-      / / / / //\_\        /  \ \          / / /   / / /       /  \ \        /  \ \____         / /  \            /  \ \____  
-     /\ \/ \ \/ / /       / /\ \ \        / /_/   / / /       / /\ \ \      / /\ \_____\       / / /\ \          / /\ \_____\ 
-    /  \____\__/ /       / / /\ \_\      / /\ \__/ / /       / / /\ \_\    / / /\/___  /      / / /\ \ \        / / /\/___  / 
-   / /\/________/       / /_/_ \/_/     / /\ \___\/ /       / / /_/ / /   / / /   / / /      / / /  \ \ \      / / /   / / /  
-  / / /\/_// / /       / /____/\       / / /\/___/ /       / / /__\/ /   / / /   / / /      / / /___/ /\ \    / / /   / / /   
- / / /    / / /       / /\____\/      / / /   / / /       / / /_____/   / / /   / / /      / / /_____/ /\ \  / / /   / / /    
-/ / /    / / /       / / /______     / / /   / / /       / / /\ \ \     \ \ \__/ / /      / /_________/\ \ \ \ \ \__/ / /     
-\/_/    / / /       / / /_______\   / / /   / / /       / / /  \ \ \     \ \___\/ /      / / /_       __\ \_\ \ \___\/ /      
-        \/_/        \/__________/   \/_/    \/_/        \/_/    \_\/      \/_____/       \_\___\     /____/_/  \/_____/       
-                                                                                                                              
--->
+1. **Clone the Repository**  
+   Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/mehrdadmb2/TCPChatClientServer.git
+   cd TCPChatClientServer
+   ```
+
+2. **Install Dependencies**  
+   The program includes an automatic library downloader. If any libraries are missing, the downloader will attempt to install them for you.
+
+   Required Libraries:
+   - `socket`
+   - `threading`
+   - `colorama`
+
+3. **Run the Program**  
+   Start the chat server and client:
+   ```bash
+   python chat_program.py
+   ```
+
+<div>&nbsp;</div>
+
+<!-- توضیحات پیکربندی -->
+## ⚙️ Configuration
+To customize the program, you may need to modify the following settings in the code:
+
+- **SERVER_HOST**: The IP address to listen on. Defaults to `0.0.0.0`.
+- **SERVER_PORT**: The port the server will use to listen for incoming connections. Default is `8080`.
+- **CLIENT_PORT**: The port the client will use to connect. Default is `8082`.
+- **TARGET_IP**: Set the IP address of the target device you wish to connect to. (Adjust this to match the network configuration)
+
+Example:
+```python
+# Configuration (Adjust according to your setup)
+SERVER_HOST = "0.0.0.0"       # Replace with your desired IP for server listening
+SERVER_PORT = 8080            # Replace with your desired port for server listening
+CLIENT_PORT = 8082            # Replace with your desired port for client connection
+TARGET_IP = "192.168.1.102"   # Replace with the target IP address for sending messages
+```
+
+<div>&nbsp;</div>
+
+<!-- دستورالعمل‌های استفاده -->
+## 🚀 Usage
+
+### Server Setup
+Run the script on the device you wish to set up as the server. The server will listen for incoming connections on the specified `SERVER_HOST` and `SERVER_PORT`.
+
+### Client Setup
+Run the script on a different device, specifying the `TARGET_IP` and `CLIENT_PORT` for the connection. Enter messages in the console to communicate with the server.
+
+### Stopping the Program
+Type `exit` in the client console to terminate the connection.
+
+<div>&nbsp;</div>
+
+<!-- ویژگی‌های برنامه -->
+## 🎯 Features
+- **Automatic Library Downloader**: The program will check for required libraries and install them automatically if they are not already installed.
+- **Clear Console**: Cross-platform command to clear the console screen (compatible with Windows and Linux).
+- **Message Log**: Displays incoming and outgoing messages in different colors for easier readability.
+
+<div>&nbsp;</div>
+
+<!-- لایسنس پروژه -->
+## 📜 License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<div>&nbsp;</div>
+
+<!-- اطلاعات تماس -->
+## 📬 Contact
+Mehrdad - [game.developer.mb@gmail.com](mailto:game.developer.mb@gmail.com)
+
+Project Link: [https://github.com/mehrdadmb2/TCPChatClientServer](https://github.com/mehrdadmb2/TCPChatClientServer)
+
+<div>&nbsp;</div>
+
+<!-- قدردانی‌ها -->
+## 🤝 Acknowledgements
+Special thanks to the open-source contributors for Colorama and other essential Python libraries.
+```
+
+این فایل به‌صورت کامل و با کامنت‌های مناسب آماده استفاده است و تمامی بخش‌های موردنیاز README شما را در بر دارد.
