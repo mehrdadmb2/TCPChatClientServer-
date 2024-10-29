@@ -44,6 +44,11 @@ This project is a simple network chat program that allows users to send and rece
    git clone https://github.com/mehrdadmb2/TCPChatClientServer.git
    cd TCPChatClientServer
    ```
+   
+    Then, run the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 2. **Install Dependencies**  
    The program includes an automatic library downloader. If any libraries are missing, the downloader will attempt to install them for you.
@@ -121,3 +126,6 @@ Project Link: [https://github.com/mehrdadmb2/TCPChatClientServer](https://github
 ## 🤝 Acknowledgements
 Special thanks to the open-source contributors for Colorama and other essential Python libraries.
 ```
+### توضیحات:
+- بخش مربوط به `Install Dependencies` به‌روز شده و اطلاعات مربوط به `requirements.txt` اضافه شده است.
+- حالا کاربران می‌توانند به راحتی کتابخانه‌های مورد نیاز را نصب کنند.
