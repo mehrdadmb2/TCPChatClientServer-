@@ -17,14 +17,14 @@
   </a>
 
   <!-- لینک‌های سریع -->
-  <h4>
+<!--  <h4>
     <a href="https://github.com/mehrdadmb2/TCPChatClientServer/wiki">Documentation</a>
     <span> · </span>
     <a href="https://github.com/mehrdadmb2/TCPChatClientServer/issues">Report Bug</a>
     <span> · </span>
     <a href="https://github.com/mehrdadmb2/TCPChatClientServer/issues">Request Feature</a>
   </h4>
-</div>
+</div> -->
 
 <br />
 
