@@ -110,8 +110,8 @@ Type `exit` in the client console to terminate the connection.
 
 <!-- لایسنس پروژه -->
 ## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the MIT License. See `NOPEEEE` for more information.
+NOOOOOO  Licensessss XD
 <div>&nbsp;</div>
 
 <!-- اطلاعات تماس -->
