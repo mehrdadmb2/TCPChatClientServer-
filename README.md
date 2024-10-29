@@ -61,9 +61,11 @@ This project is a simple network chat program that allows users to send and rece
 3. **Run the Program**  
    Start the chat server and client:
    ```bash
-   python chat_program.py
+   python Send_MSG(A).py
    ```
-
+```bash
+   python Send_MSG(B).py
+   ```
 <div>&nbsp;</div>
 
 <!-- توضیحات پیکربندی -->
