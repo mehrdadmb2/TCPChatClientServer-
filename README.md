@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/mehrdadmb2/TCPChatClientServer-/edit/main/README.md)
 <!-- بخش مرکزی توضیحات و مشخصات پروژه -->
 <div align="center">
   
@@ -15,7 +16,7 @@
   <a href="https://github.com/mehrdadmb2/TCPChatClientServer">
     <img src="https://img.shields.io/github/forks/mehrdadmb2/TCPChatClientServer?style=social" alt="forks - Network Chat">
   </a>
-![GitHub last commit](https://img.shields.io/github/last-commit/mehrdadmb2/TCPChatClientServer-/edit/main/README.md)
+
   <!-- لینک‌های سریع -->
 <!--  <h4>
     <a href="https://github.com/mehrdadmb2/TCPChatClientServer/wiki">Documentation</a>
